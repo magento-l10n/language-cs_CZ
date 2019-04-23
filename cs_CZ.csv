@@ -2635,6 +2635,7 @@ Category,Kategorie
 "Bucket do not exists","Bucket neexistuje"
 "Modify your search","Upravit hledání"
 "Please enter a valid price range.","Zadejte platný cenový rozsah."
+"""model"" value should be specified","Hodnota modelu by měla být specifikována"
 "Use All Available Attributes","Použít všechny dostupné atributy"
 Position,Pozice
 "Add Subcategory","Přidat podkategorii"
