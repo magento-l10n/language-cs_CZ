@@ -2853,6 +2853,7 @@ Specified,Zadáno
 "Web Section","Sekce web"
 "Store Email Addresses Section","Sekce e-mailové adresy obchodu"
 "Email to a Friend","Odkaz e-mailem"
+"Product with assigned super attributes should not have specified ""%1"" value","Produkt s přiřazenými super atributy by neměl mít zadanou hodnotu ""%1"""
 "Add configurable attributes to the current Attribute Set (""%1"")","Přidat konfigurovatelné atributy k aktuální sadě atributů (""%1"")"
 "Add configurable attributes to the new Attribute Set based on current","Přidat konfigurovatelné atributy do nové sady atributů odvozené od aktuální"
 "New attribute set name","Název nové sady atributů"
