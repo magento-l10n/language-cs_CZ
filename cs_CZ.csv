@@ -7442,6 +7442,7 @@ username,"uživatelské jméno"
 "Password Change","Změnit heslo"
 "Last login","Poslední přihlášení"
 Failures,"Chybné pokusy"
+"""User Name"" is required. Enter and try again.","""Uživatelské jméno"" je povinné. Zadejte a zkuste to znovu."
 Letter,Dopis
 Flat,Plochý
 Parcel,Balík
