@@ -329,8 +329,10 @@ Retry,Opakovat
 "Something went wrong while processing the request.","Při zpracování požadavku nastala chyba."
 Details,Podrobnosti
 "View Details","Zobrazit podrobnosti"
+"Pending, in queue...","Čeká ve frontě..."
 "Something went wrong.","Něco se pokazilo."
 "Action Log","Protokol akcí"
+"Bulk Actions","Hromadné operace"
 Summary,Souhrn
 "Start Time","Čas zahájení"
 Status,Stav
